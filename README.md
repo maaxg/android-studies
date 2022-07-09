@@ -2,6 +2,7 @@
 
 Already developed apps with Google code labs:
 
-- [BirthdayCard](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)
+- [BirthdayCard](https://github.com/maaxg/android-studies/tree/main/BirthDayCard)
+- [DiceRoller](https://github.com/maaxg/android-studies/tree/main/DiceRoller)
 
 
